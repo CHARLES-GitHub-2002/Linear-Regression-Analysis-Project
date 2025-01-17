@@ -5,7 +5,7 @@ The goal of this project is to help the company make a data-driven decision on w
 ## Dataset
 - **Source:** [Kaggle](https://kaggle.com/dataset)
 - **Features:**
-  - `Avg. Session Length`:The average duration of in-store style advice sessions.
+  - `Avg. Session Length`: The average duration of in-store style advice sessions.
   - `Time on App`:he average time customers spend on the mobile app, measured in minutes.
   - `Time on Website`: The average time customers spend on the website, measured in minutes.
   - `Length of Membership`: The number of years the customer has been a member.
